@@ -1,2 +1,4 @@
-# code-snippets
-Cool code I found from different websites all over the internet
+# Code Snippets
+
+
+- [Windows 95 Window](windows-95.md)
