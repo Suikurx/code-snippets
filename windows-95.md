@@ -6,17 +6,17 @@ Creates A Windows 95 Looking Window on Your Webpage
 ```
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-				<title>Windows 95</title>
-                <body>
-                    <div class="win95 window">
-                        <div class="win95 titleBar">Windows 95</div>
-                        <div class="win95 Box" style="height: 500px;width: 420px">
-                        <div style="text-align: center;"> </div>
+ <head>
+  <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows 95</title>
+     <body>
+        <div class="win95 window">
+            <div class="win95 titleBar">Windows 95</div>
+                <div class="win95 Box" style="height: 500px;width: 420px">
+                     <div style="text-align: center;"> </div>
                     </div>
-                    <style>
+<style>
 
 /* Background and overall layout */
 
@@ -84,9 +84,9 @@ hr {
 
 </style>	
         </div>
-			</body>
-        </head>
-        </html>
+       </body>
+     </head>
+   </html>
 ```
 
 Source: https://mileshouse.neocities.org/wip/japanese-app
